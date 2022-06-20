@@ -13,6 +13,10 @@ main {
     margin-left: 20px;
 }
 
+article {
+    width: 50%;
+}
+
 #minha_foto {
     width: 200px;
     border-radius: 50%;
