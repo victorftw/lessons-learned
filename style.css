@@ -13,8 +13,9 @@ main {
     margin-left: 20px;
 }
 
-.lado-esquerdo {
+article {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 20px;
     color: rgb(15, 20, 20);
     width: 20%;
     display: inline-block;
@@ -22,8 +23,9 @@ main {
     position: absolute;
 }
 
-.lado-direito {
+aside {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 20px;
     color: rgb(15, 20, 20);
     margin-left: 450px;
     display: inline-block;
