@@ -13,14 +13,18 @@ main {
     margin-left: 20px;
 }
 
-article {
+.lado-esquerdo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 20, 20);
     width: 20%;
     display: inline-block;
     text-align: left;
     position: absolute;
 }
 
-aside {
+.lado-direito {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 20, 20);
     margin-left: 450px;
     display: inline-block;
     width: 20%;
@@ -33,7 +37,7 @@ aside {
 }
 
 #cabecalho {
-    position: fixed ;
+    position: fixed;
     top: 0;
 }
 
@@ -45,11 +49,13 @@ aside {
 }
 
 #licoes_aprendidas {
+    line-height: 20px;
     margin-left: 20px;
     display: inline-block;
 }
 
 #licoes_a_aprender {
+    line-height: 20px;
     margin-left: 40px;
     display: inline-block;
 }
