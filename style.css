@@ -41,23 +41,15 @@ main {
     margin-left: 60px;
 }
 
-article {
+#aprendizados {
+    width: 20%;
     display: inline-block;
     text-align: left;
     position: absolute;
 }
 
-aside {
-    margin-left: 450px;
-    display: inline-block;
-}
-
-#aprendizados {
-    width: 20%;
-    display: inline-block;
-}
-
 #sobre {
+    margin-left: 450px;
     display: inline-block;
     width: 20%;
 }
