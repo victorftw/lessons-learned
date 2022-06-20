@@ -13,6 +13,19 @@ main {
     margin-left: 20px;
 }
 
+article {
+    width: 20%;
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+}
+
+aside {
+    margin-left: 450px;
+    display: inline-block;
+    width: 20%;
+}
+
 #minha_foto {
     width: 200px;
     border-radius: 50%;
@@ -34,22 +47,11 @@ main {
 }
 
 #rodape {
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
 #link {
     margin-left: 60px;
 }
 
-article {
-    width: 20%;
-    display: inline-block;
-    text-align: left;
-    position: absolute;
-}
 
-aside {
-    margin-left: 450px;
-    display: inline-block;
-    width: 20%;
-}
