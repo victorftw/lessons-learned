@@ -22,3 +22,7 @@ main {
     position: fixed ;
     top: 0;
 }
+
+#licoes_aprendidas {
+    margin-left: 20px;
+}
