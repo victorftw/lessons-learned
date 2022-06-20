@@ -7,6 +7,17 @@ body {
     background-color: rgb(253, 251, 251);
 }
 
+
+main {
+    margin-top: 5%;
+    margin-left: 20px;
+}
+
+#minha_foto {
+    width: 200px;
+    border-radius: 50%;
+}
+
 #cabecalho {
     position: fixed ;
     top: 0;
