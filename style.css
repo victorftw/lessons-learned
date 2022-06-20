@@ -13,10 +13,6 @@ main {
     margin-left: 20px;
 }
 
-article {
-    width: 50%;
-}
-
 #minha_foto {
     width: 200px;
     border-radius: 50%;
@@ -43,4 +39,25 @@ article {
 
 #link {
     margin-left: 60px;
+}
+
+article {
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+}
+
+aside {
+    margin-left: 450px;
+    display: inline-block;
+}
+
+#aprendizados {
+    width: 20%;
+    display: inline-block;
+}
+
+#sobre {
+    display: inline-block;
+    width: 20%;
 }
