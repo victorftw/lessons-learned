@@ -25,4 +25,10 @@ main {
 
 #licoes_aprendidas {
     margin-left: 20px;
+    display: inline-block;
+}
+
+#licoes_a_aprender {
+    margin-left: 40px;
+    display: inline-block;
 }
