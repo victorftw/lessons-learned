@@ -1,78 +1,78 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 
 main {
-    margin-top: 5%;
-    margin-left: 20px;
+  margin-top: 5%;
+  margin-left: 20px;
 }
 
 article {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 20px;
-    color: rgb(15, 20, 20);
-    width: 20%;
-    display: inline-block;
-    text-align: left;
-    position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 20px;
+  color: rgb(15, 20, 20);
+  width: 20%;
+  display: inline-block;
+  text-align: left;
+  position: absolute;
 }
 
 aside {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    line-height: 20px;
-    color: rgb(15, 20, 20);
-    margin-left: 450px;
-    display: inline-block;
-    width: 20%;
-    text-align: right;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 20px;
+  color: rgb(15, 20, 20);
+  margin-left: 450px;
+  display: inline-block;
+  width: 20%;
+  text-align: right;
 }
 
 table {
-    margin-top: 100px;
-    margin-left: 20px;
-    border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 20px;
+  border: 1px solid black;
 }
 
 #minha_foto {
-    width: 200px;
-    border-radius: 50%;
+  width: 200px;
+  border-radius: 50%;
 }
 
 #cabecalho {
-    position: fixed;
-    top: 0;
+  position: fixed;
+  top: 0;
 }
 
 #cabecalho h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(17, 15, 15);
-    font-size: 40px;
-    letter-spacing: 2px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(17, 15, 15);
+  font-size: 40px;
+  letter-spacing: 2px;
 }
 
 #licoes_aprendidas {
-    line-height: 20px;
-    margin-left: 20px;
-    display: inline-block;
+  line-height: 20px;
+  margin-left: 20px;
+  display: inline-block;
 }
 
 #licoes_a_aprender {
-    line-height: 20px;
-    margin-left: 40px;
-    display: inline-block;
+  line-height: 20px;
+  margin-left: 40px;
+  display: inline-block;
 }
 
 #rodape {
-    margin-top: 90px;
-    margin-left: 20px;
+  margin-top: 90px;
+  margin-left: 20px;
 }
 
 #link {
-    margin-left: 60px;
+  margin-left: 60px;
 }
